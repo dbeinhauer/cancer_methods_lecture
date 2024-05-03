@@ -1,11 +1,4 @@
----
-title: Working with count matrices
-output:
-  github_document:
-    code_folding: hide
----
-
-
+# Task 3: Working with count matrices
 
 ```r
 # Run a differential expression analysis (Tumour vs. Normal) using a log-fold change threshold of 1
